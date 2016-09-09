@@ -1,17 +1,17 @@
 {
-  "name": "shower-mango",
+  "name": "shower-earl2016",
   "description": "Mango theme for Shower HTML presentation engine",
   "version": "3.1.0",
   "author": {
       "name": "Gabor Csardi"
   },
-  "homepage": "https://github.com/mangothecat/shower-mango",
+  "homepage": "https://github.com/mangothecat/shower-earl2016",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mangothecat/shower-mango.git"
+    "url": "git://github.com/mangothecat/shower-earl2016.git"
   },
   "bugs": {
-    "url": "http://github.com/mangothecat/shower-mango/issues"
+    "url": "http://github.com/mangothecat/shower-earl2016/issues"
   },
   "license": "MIT",
   "keywords": [
