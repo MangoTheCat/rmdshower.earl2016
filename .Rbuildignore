@@ -1,0 +1,5 @@
+^node$
+^.*\.Rproj$
+^\.Rproj\.user$
+update.sh
+.editorconfig
